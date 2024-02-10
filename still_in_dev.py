@@ -13,8 +13,8 @@ last_response = ""
 
 def ask_hugchat(text):
     global last_response
-    email= 'yoyobechara11@gmail.com'
-    passwd = 'Omggamer,3'
+    email= ''
+    passwd = ''
     sign = Login(email, passwd)
     cookies = sign.login()
     cookie_path_dir = "./cookies_snapshot"
