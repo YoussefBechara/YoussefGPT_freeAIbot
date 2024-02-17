@@ -23,8 +23,8 @@ global last_response
 last_response = ""
 chat_bot_name = 'YsfGPT'
 def ask_hugchat(text):
-    email= 'yoyobechara11@gmail.com'
-    passwd = 'Omggamer,3'
+    email= ''
+    passwd = ''
     try:
         global last_response
         sign = Login(email, passwd)
