@@ -9,8 +9,8 @@ import pygame
 import speech_recognition as sr
 
 chat_bot_name = 'YsfGPT'
-email= 'yoyobechara11@gmail.com'
-passwd = 'Omggamer,3'
+email= ''
+passwd = ''
 web_search_option = 'False'
 
 sign = Login(email, passwd)
