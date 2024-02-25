@@ -18,8 +18,8 @@ global last_response
 last_response = ""
 
 chat_bot_name = 'YsfGPT'
-email= 'yoyobechara11@gmail.com'
-passwd = 'Omggamer,3'
+email= ''
+passwd = ''
 web_search_option = 'False'
 
 sign = Login(email, passwd)
